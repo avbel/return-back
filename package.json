@@ -1,6 +1,6 @@
 {
   "name": "return-back",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "hapi plugin to implement return back algorithm",
   "main": "index.js",
   "scripts": {
