@@ -1,0 +1,36 @@
+{
+  "name": "return-back",
+  "version": "0.0.1",
+  "description": "hapi plugin to implement return back algorithm",
+  "main": "index.js",
+  "scripts": {
+    "test": "NODE_ENV=test ./node_modules/.bin/mocha --harmony"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/avbel/return-back.git"
+  },
+  "keywords": [
+    "hapi",
+    "package",
+    "app"
+  ],
+  "author": "avbel",
+  "license": "MIT",
+  "devDependencies": {
+    "co": "^3.0.6",
+    "co-hapi": "0.0.8",
+    "co-mocha": "^1.0.0",
+    "co-supertest": "0.0.7",
+    "hapi": "^6.2.0",
+    "joi": "^4.6.2",
+    "mocha": "^1.20.1",
+    "should": "^4.0.4",
+    "sinon": "^1.10.3",
+    "supertest": "^0.13.0"
+  },
+  "bugs": {
+    "url": "https://github.com/avbel/return-back/issues"
+  },
+  "homepage": "https://github.com/avbel/return-back"
+}
